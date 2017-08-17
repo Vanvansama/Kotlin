@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinApp</string>
+
+    <!-- replace the values with yours account details -->
+
+    <string name="auth0_client_id">OW2PRGqIoYkpf97VcaOQTGE6QdegOq3z</string>
+
+    <string name="auth0_domain">kamisama.auth0.com</string>
+</resources>
